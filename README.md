@@ -61,6 +61,8 @@ admin.site.register(amazon_DB,amazon_DBAdmin)
 
 <img width="1919" height="1029" alt="Screenshot 2025-11-20 150601" src="https://github.com/user-attachments/assets/6f7c9740-99c3-4100-be8c-f2ce20f32827" />
 
+<img width="1158" height="829" alt="Screenshot 2025-11-21 152950" src="https://github.com/user-attachments/assets/081d0c23-9bbf-49c8-87b0-6eb62d898dd4" />
+
 
 ## RESULT
 Thus the program for creating E-commerce website database using ORM hass been executed successfully
